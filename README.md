@@ -9,7 +9,7 @@
 
 ## Setup
 
-Fork and clone this repo, then run:
+Fork and clone this repo, then run
 
 ```console
 $ bundle install
